@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "titulo": "Mere Cristianismo",
+    "autor": "C.S. Lewis",
+    "ano": 1952,
+    "categoria": "Teologia",
+    "editora": "Editora Cultura Cristã",
+    "paginas": 224,
+    "descricao": "Uma das obras mais importantes de C.S. Lewis sobre o cristianismo básico.",
+    "capa": "assets/images/livros/mere-cristianismo.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "O Purpose Driven Life",
+    "autor": "Rick Warren",
+    "ano": 2002,
+    "categoria": "Vida Cristã",
+    "editora": "Editora Mundo Cristão",
+    "paginas": 336,
+    "descricao": "Um guia de 40 dias para descobrir o propósito de Deus para sua vida.",
+    "capa": "assets/images/livros/purpose-driven-life.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "A Cabana",
+    "autor": "William P. Young",
+    "ano": 2007,
+    "categoria": "Ficção Cristã",
+    "editora": "Editora Arxe",
+    "paginas": 256,
+    "descricao": "Uma história emocionante sobre dor, perda e redenção.",
+    "capa": "assets/images/livros/a-cabana.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Jesus Chamou",
+    "autor": "Sarah Young",
+    "ano": 2004,
+    "categoria": "Devocional",
+    "editora": "Editora Vida Nova",
+    "paginas": 384,
+    "descricao": "Devocionais escritos como se Jesus estivesse falando diretamente ao leitor.",
+    "capa": "assets/images/livros/jesus-chamou.jpg"
+  }
+]

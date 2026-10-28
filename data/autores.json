@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nome": "C.S. Lewis",
+    "biografia": "Clive Staples Lewis (1898-1963) foi um escritor irlandês e estudioso de literatura britânica, conhecido por suas obras de ficção cristã e apologética. Professor de Literatura Inglesa nas universidades de Oxford e Cambridge, Lewis escreveu mais de 30 livros que foram traduzidos para mais de 30 idiomas e venderam milhões de cópias mundialmente. Suas obras mais famosas incluem 'As Crônicas de Nárnia', 'Mere Cristianismo' e 'O Problema da Dor'.",
+    "foto": "assets/images/autores/cs-lewis.jpg",
+    "livros_count": 12
+  },
+  {
+    "id": 2,
+    "nome": "Rick Warren",
+    "biografia": "Rick Warren nasceu em 1954 em San Jose, Califórnia. É um pastor cristão americano, autor e fundador da Saddleback Church, uma das maiores congregações dos Estados Unidos localizada em Lake Forest, Califórnia. Formado em teologia pelo Seminário Teológico Batista do Sul e pela Fuller Theological Seminary, Warren é mais conhecido por seu livro 'O Purpose Driven Life', que vendeu mais de 30 milhões de copias e foi traduzido para mais de 50 idiomas. Ele também é fundador do PEACE Plan, uma iniciativa global que combate a pobreza, doenças, falta de educação, liderança corrupta e isolamento espiritual.",
+    "foto": "assets/images/autores/rick-warren.jpg",
+    "livros_count": 8
+  },
+  {
+    "id": 3,
+    "nome": "William P. Young",
+    "biografia": "William P. Young nasceu em 1955 em Alberta, Canadá, filho de missionários canadenses que serviram com a Tribos Novas Tribos Mission. Ele passou sua infância entre o Canadá e o território tribal de Papua Nova Guiné. Young trabalhou por muitos anos no setor de escritório e gerenciamento de escritórios antes de escrever seu primeiro romance, 'A Cabana', que foi inicialmente escrito como um presente para seus seis filhos. O livro se tornou um fenômeno mundial, vendendo mais de 20 milhões de cópias e sendo traduzido para mais de 40 idiomas.",
+    "foto": "assets/images/autores/william-p-young.jpg",
+    "livros_count": 3
+  },
+  {
+    "id": 4,
+    "nome": "Sarah Young",
+    "biografia": "Sarah Young é missionária e autora de diversos best-sellers cristãos. Ela e seu marido serviram como missionários no Japão e Peru por muitos anos antes de retornarem aos Estados Unidos. Seu devocional 'Jesus Chamou' foi escrito após anos de oração pessoal e estudo da Bíblia, onde ela buscava ouvir a voz de Deus através da escrita. O livro se tornou um dos devocionais mais populares do mundo cristão, com mais de 30 milhões de cópias vendidas. Sarah continua escrevendo e falando em conferências cristãs ao redor do mundo.",
+    "foto": "assets/images/autores/sarah-young.jpg",
+    "livros_count": 5
+  },
+  {
+    "id": 5,
+    "nome": "Max Lucado",
+    "biografia": "Max Lucado nasceu em 1955 em San Angelo, Texas. É um pastor e autor best-seller conhecido por seu estilo de escrita acessível e mensagens de esperança que já venderam mais de 100 milhões de livros. Formado em teologia pela Universidade Abilene Cristã, Lucado serviu como pastor em igrejas no Brasil e nos Estados Unidos antes de se tornar escritor integral. Seus livros são conhecidos por suas histórias emocionantes, aplicações práticas da Bíblia e tom compassivo que tem alcançado pessoas de todas as idades e origens.",
+    "foto": "assets/images/autores/max-lucado.jpg",
+    "livros_count": 15
+  },
+  {
+    "id": 6,
+    "nome": "R.A. Torrey",
+    "biografia": "Ruben Archer Torrey (1856-1928) foi um evangelista americano, pastor, educador e escritor que deixou um legado significativo no campo da oração e avivamento. Formado pela Universidade de Yale e pelo Seminário Teológico Sachsenhausen, Torrey trabalhou com Dwight L. Moody em trabalhos evangelísticos em Chicago. Ele foi o primeiro superintendente do Instituto Bíblico Moody (hoje chamado Instituto Moody de Bíblia) em Chicago e posteriormente se tornou o primeiro presidente do Instituto Bíblico de Los Angeles. Torrey escreveu mais de 40 livros sobre temas como oração, avivamento, estudos bíblicos e teologia sistemática.",
+    "foto": "assets/images/autores/r-a-torrey.jpg",
+    "livros_count": 4
+  },
+  {
+    "id": 7,
+    "nome": "Henry Blackaby",
+    "biografia": "Henry Blackaby nasceu em 1935 em San Antonio, Texas. É um pastor e autor cristão conhecido por seu estudo bíblico 'Experienciando Deus' que tem impactado igrejas ao redor do mundo. Formado pelo Seminário Teológico Batista do Sul e pela Universidade do Texas Sul-Oeste, Blackaby serviu como pastor em várias igrejas antes de se dedicar integralmente ao ministério de escrita e conferências. Seu estudo 'Experienciando Deus' foi desenvolvido a partir de mais de 20 anos de serviço pastoral e tem sido usado em milhares de igrejas ao redor do mundo para ajudar os crentes a entenderem como Deus age em suas vidas.",
+    "foto": "assets/images/autores/henry-blackaby.jpg",
+    "livros_count": 6
+  },
+  {
+    "id": 8,
+    "nome": "Elisabeth Elliot",
+    "biografia": "Elisabeth Elliot (1926-2015) foi uma missionária, autora e palestrante conhecida por seu testemunho de fé após a morte de seu primeiro marido, missionário Jim Elliot, que foi morto enquanto tentava compartilhar o evangelho com a tribo Huaorani no Equador. Elisabeth continuou o trabalho missionário entre os Huaorani por dois anos antes de retornar aos Estados Unidos, onde se tornou uma voz prominente no cristianismo evangélico. Ela escreveu mais de 20 livros sobre temas como sofrimento, casamento, maternidade, missão e devoção pessoal, sempre baseando seus ensinamentos nas Escrituras e em sua própria experiência de fé.",
+    "foto": "assets/images/autores/elisabeth-elliot.jpg",
+    "livros_count": 3
+  },
+  {
+    "id": 9,
+    "nome": "John Bunyan",
+    "biografia": "John Bunyan (1628-1688) foi um escritor e pregador inglês, mais conhecido por sua obra-prima 'A Viagem do Peregrino', escrita enquanto estava preso por suas crenças religiosas. Formado como aprendiz de ferreiro, Bunyan se juntou ao exército parlamentar durante a Guerra Civil Inglesa antes de descobrir seu chamado para o pregamento. Ele passou mais de 12 anos na prisão por pregarem sem licença da Igreja da Inglaterra, durante este tempo escreveu sua obra mais famosa. 'A Viagem do Peregrino' tem sido lido por cristãos de todas as denominações por mais de 300 anos e nunca saiu de impressão.",
+    "foto": "assets/images/autores/john-bunyan.jpg",
+    "livros_count": 2
+  },
+  {
+    "id": 10,
+    "nome": "Charles Swindoll",
+    "biografia": "Charles Swindoll nasceu em 1934 em El Campo, Texas. É um pastor, autor e educador cristão conhecido por seus estudos bíblicos práticos e aplicáveis à vida cotidiana. Formado pelo Seminário Teológico Batista do Sul e pela Universidade do Texas em Dallas, Swindoll serviu como pastor em várias igrejas antes de se tornar presidente do Seminário Teológico de Dallas. Seu ministério de rádio 'Insight for Living' é transmitido em mais de 2.000 estaciones ao redor do mundo. Swindoll escreveu mais de 60 livros sobre temas como vida cristã, família, liderança e estudos bíblicos, todos marcados por seu estilo claro, prático e cheio de graça.",
+    "foto": "assets/images/autores/charles-swindoll.jpg",
+    "livros_count": 4
+  },
+  {
+    "id": 11,
+    "nome": "William Lawrence",
+    "biografia": "William Lawrence é pastor e autor especializado em literatura devocional, com anos de experiência em ministério pastoral e escrita cristã. Embora informações detalhadas sobre sua biografia sejam limitadas, seus devocionais têm sido bem recebidos pela comunidade cristã por sua aplicação prática da verdade bíblica e tom devocional que ajuda os leitores a se conectarem com Deus no cotidiano. Sua obra 'Renovado a Cada Dia' tem sido particularmente popular entre aqueles que buscam um guia devocional sólido para o crescimento espiritual diário.",
+    "foto": "assets/images/autores/william-lawrence.jpg",
+    "livros_count": 2
+  }
+]

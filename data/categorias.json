@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Teologia",
+    "descricao": "Estudos sobre a natureza de Deus, doutrinas cristãs e interpretação bíblica",
+    "livros_count": 15,
+    "icone": "📖"
+  },
+  {
+    "id": 2,
+    "nome": "Vida Cristã",
+    "descricao": "Obras sobre crescimento espiritual, discipulado e aplicação da fé no cotidiano",
+    "livros_count": 12,
+    "icone": "💒"
+  },
+  {
+    "id": 3,
+    "nome": "Ficção Cristã",
+    "descricao": "Romances e histórias que transmitem valores cristãs através da narrativa",
+    "livros_count": 10,
+    "icone": "📚"
+  },
+  {
+    "id": 4,
+    "nome": "Devocional",
+    "descricao": "Leituras diárias para reflexão espiritual e intimidade com Deus",
+    "livros_count": 18,
+    "icone": "🙏"
+  },
+  {
+    "id": 5,
+    "nome": "Oração",
+    "descricao": "Guias e ensinamentos sobre a vida de oração e comunhão com Deus",
+    "livros_count": 8,
+    "icone": "✨"
+  },
+  {
+    "id": 6,
+    "nome": "Biografia Cristã",
+    "descricao": "Vidas de homens e mulheres que marcaram a história do cristianismo",
+    "livros_count": 6,
+    "icone": "👤"
+  },
+  {
+    "id": 7,
+    "nome": "Clássicos Cristãos",
+    "descricao": "Obras atemporais que influenciaram o pensamento cristão através dos séculos",
+    "livros_count": 4,
+    "icone": "🏛️"
+  },
+  {
+    "id": 8,
+    "nome": "Liderança",
+    "descricao": "Recursos para desenvolvimento de liderança baseada em princípios bíblicos",
+    "livros_count": 7,
+    "icone": "👥"
+  },
+  {
+    "id": 9,
+    "nome": "Família e Relacionamentos",
+    "descricao": "Obras sobre casamento, parentalidade e relacionamentos saudáveis à luz da Bíblia",
+    "livros_count": 9,
+    "icone": "👨‍👩‍👧‍👦"
+  },
+  {
+    "id": 10,
+    "nome": "Missão e Evangelismo",
+    "descricao": "Materiais sobre o chamado para compartilhar o evangelho e servir ao próximo",
+    "livros_count": 5,
+    "icone": "🌍"
+  }
+]
